@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032514173777",
+    "firebase_url": "https://smalltalk-d7bab.firebaseio.com",
+    "project_id": "smalltalk-d7bab",
+    "storage_bucket": "smalltalk-d7bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032514173777:android:f9b4e31321453621",
+        "android_client_info": {
+          "package_name": "com.hussain.smalltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032514173777-a9e345fnviu4h3pi3mpoeps4sdkjjpse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussain.smalltalk",
+            "certificate_hash": "f8ae35c8cecfc0bba2cb44392e09674b829fce15"
+          }
+        },
+        {
+          "client_id": "1032514173777-k7vbgovtu7rp6kp3rntvn1u3uepgr0jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBN5ZbsbOwn6OgRz5lVdMLJcGBgG0SHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032514173777-k7vbgovtu7rp6kp3rntvn1u3uepgr0jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
